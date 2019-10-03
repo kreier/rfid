@@ -14,4 +14,4 @@ NO PICTURE YET.
 
 September 2019 it is between 407B and 407A on the fourth floor:
 
-![RFID reader](IMG_7965.HEIC)
+![RFID reader](IMG_7965.jpg)
