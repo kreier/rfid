@@ -1,17 +1,21 @@
 # RFID 125 kHz Reader with 1602 display
 
+<img src="image/IMG_7965.jpg" width="55%">
+
 RFID reader for 125 kHz with 1602 display on Arduino. This is how our setup at the American International School Vietnam looks like:
 
-![RFID reader](image/window.jpg){:width="50%"}
+<img src="image/IMG_7965.jpg" width="45%">
+<img src="image/IMG_7968.jpg" width="45%">
 
 The display encourages you to ...
-![](https://github.com/matthiaskreier/rfid-125/blob/master/image/display.jpg =200px)
+<img src="image/display.jpg" width="45%" style="float: right;">
 
 And that's all the Arduino behind it. Next time we use plexiglas to be more transparent :)
-![](https://github.com/matthiaskreier/rfid-125/blob/master/image/backside.jpg)
+<img src="image/backside.jpg" width="45%">
+
 
 Find the code here:
-(https://github.com/matthiaskreier/rfid-125/blob/master/arduino/rfid-125.ino)
+(https://github.com/kreier/rfid-125/blob/master/arduino/rfid-125.ino)
 
 ## Materials
 
@@ -30,3 +34,13 @@ All materials were ordered at [CỬA HÀNG IC ĐÂY RỒI](https://icdayroi.com/
 * Upload the software found in the link above. Don't forget the library for the hd44780 controller and the hd44780_I2C expansion set. Files are located under library.
 
 Got to [the wiki](https://github.com/matthiaskreier/rfid-125/wiki) for further details. We work on a new RTL-SDR to visualize the communication between the cards on the 125 kHz and 13.56 MHz frequency.
+
+## Old pictures from 2018
+
+![RFID reader](image/window.jpg)
+
+The display encourages you to ...
+![](https://github.com/matthiaskreier/rfid-125/blob/master/image/display.jpg)
+
+And that's all the Arduino behind it. Next time we use plexiglas to be more transparent :)
+![](https://github.com/matthiaskreier/rfid-125/blob/master/image/backside.jpg)
