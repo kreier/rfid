@@ -11,6 +11,12 @@ int LED = 13;
 int y = 0;
 
 int tag1[14] = {2,48,49,48,70,65,66,49,70,52,50,70,55,3};
+// this translates to STX 010FAB1F42F7 ETX - just 12 bytes of text
+// the barcode on the back is E0817039 with
+// E - expat
+// 08 - August  month of employment start
+// 17 - 2017    year of employment start
+// 039 - the 39th person starting to work in this month - 8 byte code in code128
 int newtag[14] = { 0,0,0,0,0,0,0,0,0,0,0,0,0,0}; // used for read comparisons
 
 hd44780_I2Cexp lcd; // declare lcd object: auto locate & config display for hd44780 chip
