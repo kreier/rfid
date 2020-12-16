@@ -15,7 +15,7 @@ And that's all the Arduino behind it. Next time we use plexiglas to be more tran
 
 
 Find the code here:
-(https://github.com/kreier/rfid-125/blob/master/arduino/rfid-125.ino)
+(https://github.com/kreier/rfid/blob/main/arduino/rfid-125.ino)
 
 ## Materials
 
