@@ -1,5 +1,8 @@
 # RFID 125 kHz Reader with 1602 display
 
+![GitHub Release](https://img.shields.io/github/v/release/kreier/rfid)
+![GitHub License](https://img.shields.io/github/license/kreier/rfid)
+
 <img src="./docs/IMG_7965.jpg" width="55%">
 
 RFID reader for 125 kHz with 1602 display on Arduino. This is how our setup at the American International School Vietnam looks like:
@@ -44,3 +47,11 @@ The display encourages you to ...
 
 And that's all the Arduino behind it. Next time we use plexiglas to be more transparent :)
 ![](https://github.com/matthiaskreier/rfid-125/blob/master/docs/backside.jpg)
+
+# 2019
+
+September 2019 it is between 407B and 407A on the fourth floor:
+
+![RFID reader](docs/IMG_7965.jpg)
+
+<img src="docs/IMG_7966.jpg" width="45%"> <img src="docs/IMG_7968.jpg" width="45%">
